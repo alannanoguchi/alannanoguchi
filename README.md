@@ -7,10 +7,7 @@
 
   - 🤔 &nbsp; Exploring new technologies and constantly learning new things.
   - 🎓 &nbsp; Degree #1: Child Development.
-  - 🎓 &nbsp; Degree #2: Applied Computer Science (in progress).
-  - 💼 &nbsp; I’m currently working as a Student Assistant with the Department of Technology.
-  - 🌱 &nbsp; Currently working on collaboration project with Raptor Maps. 
-
+  - 🎓 &nbsp; Degree #2: Applied Computer Science.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
